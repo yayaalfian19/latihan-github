@@ -4,3 +4,4 @@ judul latihan resolusi
 - buat website
 - dan video
 - membuat forum diskusi
+- membuat workshop (tambahan)
